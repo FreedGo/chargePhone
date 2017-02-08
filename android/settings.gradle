@@ -1,0 +1,3 @@
+rootProject.name = 'chargePhone'
+
+include ':app'
